@@ -3,7 +3,7 @@ node_modules/
 npm-debug.log
 
 # Environment Variables
-token.env
+.env
 
 # Operating System Files
 .DS_Store  # macOS

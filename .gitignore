@@ -3,7 +3,8 @@ node_modules/
 npm-debug.log
 
 # Environment Variables
-.env
+test.env
+token.env
 *.env.local
 *.env.development
 *.env.test
